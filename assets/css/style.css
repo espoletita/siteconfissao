@@ -1,1 +1,17 @@
-
+/* Estilos personalizados */
+body {
+    background-color: #f5f5f5;
+    color: #333;
+  }
+  
+  .container {
+    margin-top: 20px;
+  }
+  
+  /* Exemplo de customização do modal deslizante */
+  .modal-bottom {
+    position: fixed;
+    bottom: 0;
+    margin: 0;
+    width: 100%;
+  }
